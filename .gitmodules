@@ -2,23 +2,23 @@
 	path = drupal
 	url = http://git.drupal.org/project/drupal.git
 	branch = 7.x
-[submodule "contrib/views"]
-	path = contrib/views
+[submodule "modules/contrib/views"]
+	path = modules/contrib/views
 	url = http://git.drupal.org/project/views.git
 	branch = 7.x-3.x
-[submodule "contrib/ctools"]
-	path = contrib/ctools
+[submodule "modules/contrib/ctools"]
+	path = modules/contrib/ctools
 	url = http://git.drupal.org/project/ctools.git
 	branch = 7.x-1.x
-[submodule "contrib/devel"]
-	path = contrib/devel
+[submodule "modules/contrib/devel"]
+	path = modules/contrib/devel
 	url = http://git.drupal.org/project/devel.git
 	branch = 7.x-1.x
-[submodule "contrib/features"]
-	path = contrib/features
+[submodule "/modules/contrib/features"]
+	path = /modules/contrib/features
 	url = http://git.drupal.org/project/features.git
 	branch = 7.x-2.x
-[submodule "contrib/pathauto"]
-	path = contrib/pathauto
+[submodule "/modules/contrib/pathauto"]
+	path = /modules/contrib/pathauto
 	url = http://git.drupal.org/project/pathauto.git
 	branch = 7.x-1.x
