@@ -18,3 +18,7 @@
 	path = contrib/features
 	url = http://git.drupal.org/project/features.git
 	branch = 7.x-2.x
+[submodule "contrib/pathauto"]
+	path = contrib/pathauto
+	url = http://git.drupal.org/project/pathauto.git
+	branch = 7.x-1.x
