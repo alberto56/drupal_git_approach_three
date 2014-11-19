@@ -1,0 +1,4 @@
+[submodule "drupal"]
+	path = drupal
+	url = http://git.drupal.org/project/drupal.git
+	branch = 7.x
